@@ -59,9 +59,12 @@
             <h2>Team Squads</h2>
             <div id="team-list-container"></div>
         </div>-->
-        <div class="bidding-history-container">
-                <h2>📜 Bidding History</h2>
-                <div id="bidding-history" class="bidding-history-box"></div>
+        <div class="bidding-history-container">                  
+                <h2>📜 Bidding History</h2>  <div class='stat-item'><span>Wickets:</span> <span id='player-wickets'> $wkts </span></div>
+
+                <div id="bidding-history" class="bidding-history-box">                <p>balboli</p>
+                </div>
+                
             </div>
     </div>
 

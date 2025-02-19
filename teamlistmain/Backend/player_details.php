@@ -68,7 +68,6 @@
                 <div class='bowl-stats'>
                     <h3>Bowling Stats</h3>
                     <div class='stat-item'><span>Wickets:</span> <span id='player-wickets'> $wkts </span></div>
-                                        <div class='stat-item'><span>TIMER:</span> <span id='player-wickets'> 90s </span></div>
 
                 </div>
 
